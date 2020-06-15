@@ -1,9 +1,11 @@
 {
+  "homepage": "https://nadiamariduena.github.io/todo-react/.",
   "name": "todo-list-react",
   "version": "1.0.0",
-  "description": "",
+  "description": "testing todo list deploying",
   "main": "index.js",
   "scripts": {
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build"

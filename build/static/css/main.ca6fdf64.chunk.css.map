@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAAA,KACE,yDAAqE","file":"main.ca6fdf64.chunk.css","sourcesContent":["body {\n  background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);\n}\n\n\n"]}
