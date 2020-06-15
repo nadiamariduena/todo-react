@@ -5,6 +5,22 @@ import TodoItems from "./TodoItems";
 
 // 3
 class TodoList extends Component {
+  /*
+What is Props?
+-Stands for properties
+- Can be passed like function arguments
+- Can only be used in a uni-directional flow(parent > child)
+- example of how it works
+
+when you add the href="value" you are assigning an attribute to an html element:
+<a href="value"> Link </a>
+Its the same with the props
+<Component property="value">
+
+check the video min 3:05
+https://youtu.be/KvapOdsFK5A
+*/
+
   constructor(props) {
     super(props);
     /*
