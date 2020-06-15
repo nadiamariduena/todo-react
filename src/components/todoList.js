@@ -32,6 +32,13 @@ Clear Example:
         https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_class_extends
     */
     // 6
+    /*
+    What is STATE?
+    state of a component is an object that holds some information that may change 
+    throughout the component lifeCycle
+
+    https://youtu.be/lW-bQUDuhT8
+    */
     this.state = {
       items: [],
     };
